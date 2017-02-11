@@ -4,7 +4,9 @@ Machine learning - evolution algorithm (Zen garden) http://www2.fiit.stuba.sk/~k
 
 Zenová záhradka je plocha vysypaná hrubším pieskom (drobnými kamienkami). 
 Obsahuje však aj nepohyblivé väčšie objekty, ako napríklad kamene, sochy, konštrukcie, 
-samorasty. Mních má upraviť piesok v záhradke pomocou hrablí tak, že vzniknú pásy. 
+samorasty. Mních má upraviť piesok v záhradke pomocou hrablí tak, že vzniknú pásy na obr:
+
+![alt tag](http://www2.fiit.stuba.sk/~kapustik/zen-s.png)
 
 Pásy môžu ísť len vodorovne alebo zvislo, nikdy nie šikmo. Začína vždy na okraji 
 záhradky a ťahá rovný pás až po druhý okraj alebo po prekážku. Na okraji - mimo záhradky 
